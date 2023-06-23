@@ -1,0 +1,14 @@
+.buttonClick,
+.buttonClickNo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.buttonClick {
+    background-color: black;
+    color: white;
+}
+
+.buttonClickNo {
+    background-color: yellow;
+}
